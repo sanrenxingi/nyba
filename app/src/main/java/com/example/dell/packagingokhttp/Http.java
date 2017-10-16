@@ -18,6 +18,7 @@ import okhttp3.Response;
 
 /**
  * Created by dell on 2017/10/16.
+ * 作者：聂雁宾
  */
 
 public class Http<T> {
