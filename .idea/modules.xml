@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PackagingOkhttp.iml" filepath="$PROJECT_DIR$/PackagingOkhttp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nyba.iml" filepath="$PROJECT_DIR$/nyba.iml" />
       <module fileurl="file://$PROJECT_DIR$/nybaa.iml" filepath="$PROJECT_DIR$/nybaa.iml" />
     </modules>
   </component>
