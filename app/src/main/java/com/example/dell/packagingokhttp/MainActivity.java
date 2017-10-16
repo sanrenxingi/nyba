@@ -8,10 +8,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //李潇
-        //聂雁宾
-        //刘希鑫
-        //2233
-        //聂雁宾就是帅
+        //我，很帅，所以，给钱
     }
 }
